@@ -6,6 +6,7 @@
     "npm": "6.x"
   }
 }
+
   "dependencies": {
     "ascii-table": "0.0.9",
     "better-sqlite3": "^7.3.1",
