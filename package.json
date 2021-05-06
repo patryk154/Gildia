@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "A fully customizable bot built with discord.js",
   "main": "app.js",
-  "engines": {
-    "node": "14.x"
-  }
-}
-  "dependencies": {
+  "dependencies": {},
     "ascii-table": "0.0.9",
     "better-sqlite3": "^7.3.1",
     "common-tags": "^1.8.0",
