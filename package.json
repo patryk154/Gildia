@@ -2,7 +2,7 @@
   "name": "Gildia Klaw",
   "version": "1.0.0",
   "description": "A fully customizable bot built with discord.js",
-  "main": "app.js",
+  "Master": "app.js",
   "dependencies": {
     "ascii-table": "0.0.9",
     "better-sqlite3": "^7.3.1",
