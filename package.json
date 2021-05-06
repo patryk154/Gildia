@@ -18,7 +18,7 @@
     "winston": "^3.2.1",
     "yaml": "^1.8.3",
     "youtube-search": "^1.1.4"
-  "devDependencies": {},
+  "devDependencies" {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
