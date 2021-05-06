@@ -20,7 +20,7 @@
     "youtube-search": "^1.1.4"
   },
   "devDependencies": {
-    "nodemon": "^1.0.0"
+    "nodemon": "^14.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
